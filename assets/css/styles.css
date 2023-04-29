@@ -118,7 +118,7 @@ html {
 #slider {
   margin-top: 46px;
   padding-top: 50%;
-  background: url("/project_f8/assets/img/342732965_1638383366676634_6750563327740281687_n.jpg")
+  background: url("../img/342732965_1638383366676634_6750563327740281687_n.jpg")
     top center / cover no-repeat;
   position: relative;
 }
